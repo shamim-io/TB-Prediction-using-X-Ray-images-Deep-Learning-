@@ -13,3 +13,5 @@ Deep Learning problem
 1. Using VGG-19, ResNet50 and Inception-V3 networks build models.
 2. Use accuracy to compare performance of the three models.
 3. Write a function to tune the threshold of the best model such that the AUC of the model is above x%(let default be 90%) and plot the confusion matrix with that tuned threshold.
+
+Data can be downloaded from:- wget  http://openi.nlm.nih.gov/imgs/collections/ChinaSet_AllFiles.zip
